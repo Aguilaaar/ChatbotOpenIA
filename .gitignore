@@ -1,0 +1,145 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+#  Arquivos geralmente gerados por scripts Python antes de construir o executável
+*.manifest
+*.spec
+
+# Logs do instalador
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Relatórios de teste/unidade e cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+pytest_cache/
+
+# Traduções
+*.mo
+*.pot
+
+# Django (se aplicável)
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask
+instance/
+.webassets-cache
+*.sqlite
+
+# Scrapy (se aplicável)
+.scrapy
+
+# Documentação Sphinx
+docs/_build/
+docs/_static/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Variáveis de ambiente
+.env
+.env.*
+!/.env.example
+
+# IDEs e Editores
+.vscode/
+.idea/
+
+# Sistema Operacional
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node.js (JavaScript)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs gerais
+*.log
+
+# Relatórios de cobertura
+coverage/
+coverage.xml
+*.cover
+*.py,cover
+.coverage
+.cache/
+nosetests.xml
+coverage.xml
+
+# Arquivos temporários e de backup
+*.swp
+*~
+*.bak
+*.tmp
+*.temp
+
+# Compilados
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Outros arquivos
+*.pid
+*.seed
+*.pid.lock
